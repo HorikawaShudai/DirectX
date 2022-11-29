@@ -1,0 +1,15 @@
+﻿  Camera.cpp
+  MeshWall.cpp
+  Model.cpp
+Model.cpp(28): warning C4101: 'dwSizeFVF': ローカル変数は 1 度も使われていません。
+Model.cpp(29): warning C4101: 'pVtxBuff': ローカル変数は 1 度も使われていません。
+  Wall.cpp
+  bullet.cpp
+  main.cpp
+  コード生成しています。
+  59 of 121 functions (48.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  3D000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGAME\3D000\Release\3D000.exe
+  3D000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGAME\3D000\Release\3D000.pdb (Full PDB)

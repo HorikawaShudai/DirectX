@@ -1,0 +1,5 @@
+﻿  Object.cpp
+c:\users\student\documents\visual studio 2015\projects\3dgame\3d000\object.cpp(29): warning C4101: 'dwSizeFVF': ローカル変数は 1 度も使われていません。
+c:\users\student\documents\visual studio 2015\projects\3dgame\3d000\object.cpp(30): warning C4101: 'pVtxBuff': ローカル変数は 1 度も使われていません。
+  3D000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGAME\3D000\Debug\3D000.exe
+  3D000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGAME\3D000\Debug\3D000.pdb (Full PDB)
